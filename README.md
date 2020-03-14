@@ -6,7 +6,7 @@ description: Google Tag Manager Event Tracker for Paella Player
 
 ## Installataion
 
-dfgdfgdf
+dfgdfdf
 
 ```
 $ give me super-powers

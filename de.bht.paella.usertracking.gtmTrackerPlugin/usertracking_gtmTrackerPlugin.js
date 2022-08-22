@@ -6,7 +6,6 @@ paella.addPlugin(function () {
 
     checkEnabled(onSuccess) {
       var containerID = this.config.containerID;
-      this._containerID = this.config.containerID;
       if (containerID) {
         window.dataLayer = window.dataLayer || [];
         console.log('CONTAINER: ' + containerID);

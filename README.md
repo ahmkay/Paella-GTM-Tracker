@@ -11,7 +11,6 @@ For Standalone-Mode set Google Tag Manager Tracking ID. If no Tracking ID is fou
 
 ```text
 "de.bht.paella.usertracking.gtmTrackerPlugin": { "enabled": true, "containerID": "GTM-XXXXX" }
-
 ```
 
 

@@ -4,7 +4,7 @@ description: Google Tag Manager Event Tracker for Paella Player
 
 # Paella GTM Tracker
 
-## Installataion
+## Installation
 
 Add Plugin to /plugins folder and enable in config.json.
 For Standalone-Mode set Google Tag Manager Tracking ID. If no Tracking ID is found, Plugin will run Integrate-Mode and send events to parent Datalayer. 
